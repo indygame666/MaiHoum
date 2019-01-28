@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Sortirovka.cpp
+d:\trash\sortirovka\sortirovka\sortirovka.cpp(95): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Generating Code...
+d:\trash\sortirovka\sortirovka\sortirovka.cpp(67): warning C4715: 'sliyanie': not all control paths return a value
+d:\trash\sortirovka\sortirovka\sortirovka.cpp(36): warning C4715: 'recursia': not all control paths return a value
+  Sortirovka.vcxproj -> D:\trash\Sortirovka\Debug\Sortirovka.exe
+  Sortirovka.vcxproj -> D:\trash\Sortirovka\Debug\Sortirovka.pdb (Full PDB)
